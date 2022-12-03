@@ -1,1 +1,7 @@
 # Midpoint
+
+## Code
+
+## Media
+
+## Diagram
