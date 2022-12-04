@@ -1,5 +1,5 @@
 # Code
-We modify the Arducam and VGA code and combine them, we give up using two cores as it's too difficult to debug. And now our bluetooth and APDS9960 can work well. The difficulty we met is how to change the image_buf(342 * 342) the camera output to fit the distinguishability the VGA transmit(640 * 480). And the code can be find here.
+We modify the Arducam and VGA code and combine them, we give up using two cores as it's too difficult to debug. And now our bluetooth and APDS9960 can work well. The difficulty we met is how to change the image_buf(342 * 342) the camera output to fit the distinguishability the VGA transmit(640 * 480). And the code can be find [here](https://github.com/zgu74/Midpoint/tree/main/code).
 # Media
 
 ## Materials
